@@ -8,6 +8,9 @@ import './temasTS/02-obj-interface-arre.ts'
 import './temasTS/03-funciones.ts'
 import './temasTS/04-desestructuracion-obj-arre.ts'
 import './temasTS/05-desestructuracion-funciones.ts'
+import './temasTS/06-importar-exportar.ts'
+import './temasTS/07-clases.ts'
+import './temasTS/08-herencia.ts'
 
 document.querySelector<HTMLDivElement>('#app')!.innerHTML = `
   <div>
